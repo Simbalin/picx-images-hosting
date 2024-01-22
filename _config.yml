@@ -103,8 +103,9 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://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@github.com/Simbalin/picx-images-hosting.git
-  branch: main
+  repo: 
+      github: https://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@github.com/Simbalin/picx-images-hosting.git
+  branch: master
 
 # abbrlink config
 abbrlink:
